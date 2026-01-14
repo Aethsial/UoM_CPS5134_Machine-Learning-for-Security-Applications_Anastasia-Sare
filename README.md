@@ -42,7 +42,7 @@ The main deliverable is a Jupyter notebook that:
 This project is based on CIC-IDS2017 (Canadian Institute for Cybersecurity, University of New Brunswick):  
 - Official dataset page: https://www.unb.ca/cic/datasets/ids-2017.html
 
-A Kaggle versio was used for this coursework:  
+A Kaggle version was used for this coursework:  
 - https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
 
 ### Generated / processed datasets (GitHub Release)
