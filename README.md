@@ -35,6 +35,8 @@ The main deliverable is a Jupyter notebook that:
 - xgboost
 - matplotlib
 
+---
+
 ## Datasets
 ### Source data
 This project is based on CIC-IDS2017 (Canadian Institute for Cybersecurity, University of New Brunswick):  
